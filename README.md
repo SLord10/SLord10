@@ -1,122 +1,221 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <!-- Twinkling animation -->
-    <animate id="twinkle1" attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
-    <animate id="twinkle2" attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite"/>
-    <animate id="twinkle3" attributeName="opacity" values="0.2;0.8;0.2" dur="2.5s" repeatCount="indefinite"/>
+# <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hey+%F0%9F%91%8B+I'm+Soufiane+Lamribah;Software+Engineer+%26+Problem+Solver;Building+Digital+Solutions+%F0%9F%9A%80)</div>
+
+<div align="center">
+
+<!-- Animated Starfield Background -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:161B22,50:21262D,75:30363D,100:484F58&height=200&section=header&text=SOUFIANE%20LAMRIBAH&fontSize=40&fontColor=58A6FF&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Architect&descAlignY=55&descSize=16&descColor=C9D1D9">
+
+```ascii
+╔══════════════════════════════════════════════════════════════════════╗
+║  ███████╗ ██████╗ ██╗   ██╗███████╗██╗ █████╗ ███╗   ██╗███████╗    ║
+║  ██╔════╝██╔═══██╗██║   ██║██╔════╝██║██╔══██╗████╗  ██║██╔════╝    ║
+║  ███████╗██║   ██║██║   ██║█████╗  ██║███████║██╔██╗ ██║█████╗      ║
+║  ╚════██║██║   ██║██║   ██║██╔══╝  ██║██╔══██║██║╚██╗██║██╔══╝      ║
+║  ███████║╚██████╔╝╚██████╔╝██║     ██║██║  ██║██║ ╚████║███████╗    ║
+║  ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝    ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<h3>🚀 Software Engineer | Full-Stack Developer | Digital Architect 🛸</h3>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SoufianeLamribah&color=58A6FF&style=for-the-badge&label=VISITORS)
+![GitHub followers](https://img.shields.io/github/followers/SoufianeLamribah?color=58A6FF&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white)
+![GitHub User's stars](https://img.shields.io/github/stars/SoufianeLamribah?color=FFA116&style=for-the-badge&label=STARS&logo=star&logoColor=white)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,7,12,14&height=2&section=divider">
+
+## 🎯 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```python
+class SoufianeLamribah:
+    def __init__(self):
+        self.role = "Software Engineering Student 🎓"
+        self.location = "Morocco 🇲🇦"
+        self.current_project = "Quick Response Management System"
+        self.tech_stack = ["FastAPI", "Angular", "Python", "PostgreSQL"]
+        self.passion = "Solving real-world problems with elegant code"
+        self.status = "Building the future, one commit at a time ⚡"
+        
+    def get_daily_routine(self):
+        return {
+            "morning": "☕ Coffee + Planning",
+            "day": "💻 Coding + Learning", 
+            "evening": "🔄 Review + Optimize",
+            "night": "🌙 Dream in Python"
+        }
     
-    <!-- Movement animations -->
-    <animateTransform id="moveRight1" attributeName="transform" type="translate" values="-10,0;810,0;-10,0" dur="15s" repeatCount="indefinite"/>
-    <animateTransform id="moveRight2" attributeName="transform" type="translate" values="-10,0;810,0;-10,0" dur="20s" repeatCount="indefinite"/>
-    <animateTransform id="moveLeft1" attributeName="transform" type="translate" values="810,0;-10,0;810,0" dur="18s" repeatCount="indefinite"/>
-    <animateTransform id="moveDown1" attributeName="transform" type="translate" values="0,-10;0,410;0,-10" dur="12s" repeatCount="indefinite"/>
-    <animateTransform id="moveUp1" attributeName="transform" type="translate" values="0,410;0,-10;0,410" dur="16s" repeatCount="indefinite"/>
-    <animateTransform id="moveDiag1" attributeName="transform" type="translate" values="-10,-10;810,410;-10,-10" dur="25s" repeatCount="indefinite"/>
-    <animateTransform id="moveDiag2" attributeName="transform" type="translate" values="810,-10;-10,410;810,-10" dur="22s" repeatCount="indefinite"/>
-  </defs>
-  
-  <!-- Black background -->
-  <rect width="100%" height="100%" fill="#000000"/>
-  
-  <!-- Moving stars with different sizes and animations -->
-  
-  <!-- Large stars -->
-  <circle cx="100" cy="80" r="1.5" fill="white">
-    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.2s" begin="0s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="-10,0;810,0;-10,0" dur="20s" begin="0s" repeatCount="indefinite"/>
-  </circle>
-  
-  <circle cx="300" cy="150" r="1.5" fill="white">
-    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="1.8s" begin="0.5s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="810,0;-10,0;810,0" dur="18s" begin="1s" repeatCount="indefinite"/>
-  </circle>
-  
-  <circle cx="500" cy="200" r="1.5" fill="white">
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" begin="1s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="0,-10;0,410;0,-10" dur="15s" begin="2s" repeatCount="indefinite"/>
-  </circle>
-  
-  <!-- Medium stars -->
-  <circle cx="150" cy="250" r="1" fill="white">
-    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.5s" begin="0.2s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="-10,-10;810,410;-10,-10" dur="24s" begin="0s" repeatCount="indefinite"/>
-  </circle>
-  
-  <circle cx="400" cy="300" r="1" fill="white">
-    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" begin="1.5s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="810,-10;-10,410;810,-10" dur="22s" begin="1s" repeatCount="indefinite"/>
-  </circle>
-  
-  <circle cx="650" cy="100" r="1" fill="white">
-    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3s" begin="0.8s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="-10,0;810,0;-10,0" dur="16s" begin="0.5s" repeatCount="indefinite"/>
-  </circle>
-  
-  <circle cx="200" cy="350" r="1" fill="white">
-    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="1.7s" begin="2s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="0,410;0,-10;0,410" dur="14s" begin="1.5s" repeatCount="indefinite"/>
-  </circle>
-  
-  <!-- Small stars -->
-  <circle cx="75" cy="120" r="0.5" fill="white">
-    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="2.8s" begin="0.3s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="810,0;-10,0;810,0" dur="19s" begin="0.2s" repeatCount="indefinite"/>
-  </circle>
-  
-  <circle cx="320" cy="180" r="0.5" fill="white">
-    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="1.9s" begin="1.2s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="-10,0;810,0;-10,0" dur="17s" begin="2s" repeatCount="indefinite"/>
-  </circle>
-  
-  <circle cx="580" cy="270" r="0.5" fill="white">
-    <animate attributeName="opacity" values="0.4;0.7;0.4" dur="2.3s" begin="0.7s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="0,-10;0,410;0,-10" dur="13s" begin="1s" repeatCount="indefinite"/>
-  </circle>
-  
-  <circle cx="720" cy="320" r="0.5" fill="white">
-    <animate attributeName="opacity" values="0.1;0.5;0.1" dur="3.2s" begin="1.8s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="0,410;0,-10;0,410" dur="21s" begin="0.5s" repeatCount="indefinite"/>
-  </circle>
-  
-  <circle cx="450" cy="50" r="0.5" fill="white">
-    <animate attributeName="opacity" values="0.3;0.6;0.3" dur="1.6s" begin="2.5s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="-10,-10;810,410;-10,-10" dur="26s" begin="1.2s" repeatCount="indefinite"/>
-  </circle>
-  
-  <circle cx="120" cy="320" r="0.5" fill="white">
-    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.1s" begin="0.9s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="810,-10;-10,410;810,-10" dur="23s" begin="2.2s" repeatCount="indefinite"/>
-  </circle>
-  
-  <!-- Additional scattered stars for density -->
-  <circle cx="250" cy="90" r="0.5" fill="white">
-    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="2.4s" begin="1.3s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="-10,0;810,0;-10,0" dur="18s" begin="0.8s" repeatCount="indefinite"/>
-  </circle>
-  
-  <circle cx="680" cy="220" r="0.5" fill="white">
-    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="2.9s" begin="0.4s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="0,-10;0,410;0,-10" dur="16s" begin="1.7s" repeatCount="indefinite"/>
-  </circle>
-  
-  <circle cx="380" cy="370" r="1" fill="white">
-    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="1.4s" begin="2.1s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="810,0;-10,0;810,0" dur="20s" begin="0.3s" repeatCount="indefinite"/>
-  </circle>
-  
-  <circle cx="50" cy="280" r="0.5" fill="white">
-    <animate attributeName="opacity" values="0.1;0.4;0.1" dur="3.5s" begin="1.6s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="0,410;0,-10;0,410" dur="19s" begin="2.3s" repeatCount="indefinite"/>
-  </circle>
-  
-  <!-- Shooting star effect -->
-  <line x1="700" y1="50" x2="730" y2="80" stroke="white" stroke-width="1" opacity="0">
-    <animate attributeName="opacity" values="0;1;0" dur="0.5s" begin="5s;15s;25s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="0,0;-750,300;0,0" dur="0.5s" begin="5s;15s;25s" repeatCount="indefinite"/>
-  </line>
-  
-  <line x1="100" y1="300" x2="130" y2="330" stroke="white" stroke-width="1" opacity="0">
-    <animate attributeName="opacity" values="0;1;0" dur="0.4s" begin="10s;20s;30s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="0,0;600,-250;0,0" dur="0.4s" begin="10s;20s;30s" repeatCount="indefinite"/>
-  </line>
-</svg>
+    def get_motto(self):
+        return "Code is poetry written in logic 🎨"
+
+# Initialize developer
+soufiane = SoufianeLamribah()
+print(f"Status: {soufiane.status}")
+```
+
+<br clear="both">
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,25:161B22,50:21262D,75:30363D,100:484F58&height=80&section=divider&text=TECH%20STACK&fontSize=20&fontColor=58A6FF&animation=fadeIn">
+
+## ⚡ Technology Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Universe
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,typescript,html,css,tailwind,react&theme=dark" />
+</p>
+
+### ⚙️ Backend Galaxy  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,cs,dotnet,java&theme=dark" />
+</p>
+
+### 🗄️ Database & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,git,github,vscode&theme=dark" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,postman,figma,notion&theme=dark" />
+</p>
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,25:21262D,50:30363D,75:484F58,100:6E7681&height=100&section=divider&text=GITHUB%20ANALYTICS&fontSize=20&fontColor=58A6FF&animation=fadeIn">
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SLord10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLord10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SLord10&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FFA116&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SLord10&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true" alt="Activity Graph" />
+
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SLord10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0D1117,100:161B22&height=80&section=divider&text=CURRENT%20PROJECTS&fontSize=20&fontColor=58A6FF">
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎯 Quick Response Management System</h3>
+      <p><strong>Tech Stack:</strong> FastAPI • Angular • PostgreSQL</p>
+      <p>A comprehensive system for managing emergency responses with real-time tracking and analytics</p>
+      <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🔧 Personal Portfolio</h3>
+      <p><strong>Tech Stack:</strong> React • TypeScript • TailwindCSS</p>
+      <p>Modern, responsive portfolio showcasing projects and skills with interactive elements</p>
+      <img src="https://img.shields.io/badge/Status-Coming%20Soon-blue?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:484F58,25:30363D,50:21262D,75:161B22,100:0D1117&height=120&section=divider&text=LET'S%20CONNECT&fontSize=25&fontColor=58A6FF&animation=twinkling">
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+```javascript
+const connectWithMe = {
+    linkedin: "Professional networking & opportunities",
+    email: "Project collaborations & discussions", 
+    portfolio: "Explore my work & journey",
+    github: "Open source contributions & code"
+};
+
+console.log("Let's build something amazing together! 🚀");
+```
+
+<p>
+  <a href="https://www.linkedin.com/in/soufiane-lamribah-4a5b06232">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:soufianelamribah2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="https://github.com/SLord10">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Developer Philosophy
+
+```json
+{
+  "code_quality": "Clean, readable, and maintainable",
+  "learning_mindset": "Embrace challenges as growth opportunities",
+  "collaboration": "Great things happen when minds unite",
+  "impact": "Technology should solve real problems",
+  "innovation": "Question everything, improve constantly"
+}
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,7,12,14&height=2&section=divider">
+
+### 🎯 Quick Stats
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Lives-Morocco-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Languages-Python%20%7C%20TypeScript%20%7C%20C%23-blue?style=for-the-badge" />
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:161B22,50:21262D,75:30363D,100:484F58&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=58A6FF&animation=twinkling">
+
+*"The best error message is the one that never shows up."* - Thomas Fuchs
+
+**⭐ Star some repositories if you find them interesting!**
+
+</div>
