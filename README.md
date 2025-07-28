@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Starfield Background -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:161B22,50:21262D,75:30363D,100:484F58&height=200&section=header&text=SOUFIANE%20LAMRIBAH&fontSize=40&fontColor=58A6FF&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Architect&descAlignY=55&descSize=16&descColor=C9D1D9">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:161B22,50:21262D,75:30363D,100:484F58&height=200&section=header&text=SOUFIANE%20LAMRIBAH&fontSize=40&fontColor=FFFFF&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Architect&descAlignY=55&descSize=16&descColor=C9D1D9">
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════════════╗
