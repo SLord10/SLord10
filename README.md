@@ -13,7 +13,7 @@
 ╚═════════════════════════════════════════════════════════════════╝
 ```
 
-### 🚀 Software Architect | Full-Stack Wizard | Problem Solver
+### 🚀 Software Engineer | Full-Stack Wizard | Problem Solver
 
 *Turning caffeine into code since 2020* ☕️➡️💻
 
@@ -28,7 +28,7 @@ class SoufianeLamribah:
     def __init__(self):
         self.role = "Software Engineering Student"
         self.current_project = "Quick Response Management System"
-        self.tech_stack = ["FastAPI", "Angular", "Python", "PostgreSQL"]
+        self.tech_stack = ["FastAPI", "Angular", "Python", "PostgreSQL", "Spring Boot"]
         self.status = "Building the future, one commit at a time"
         
     def get_passion(self):
@@ -53,6 +53,8 @@ class SoufianeLamribah:
 ### ⚙️ Backend Sorcery
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
