@@ -18,9 +18,9 @@
 
 <h3>🚀 Software Engineer | Full-Stack Developer | Digital Architect 🛸</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SoufianeLamribah&color=58A6FF&style=for-the-badge&label=VISITORS)
-![GitHub followers](https://img.shields.io/github/followers/SoufianeLamribah?color=58A6FF&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white)
-![GitHub User's stars](https://img.shields.io/github/stars/SoufianeLamribah?color=FFA116&style=for-the-badge&label=STARS&logo=star&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=SLord10&color=58A6FF&style=for-the-badge&label=VISITORS)
+![GitHub followers](https://img.shields.io/github/followers/SLord10?color=58A6FF&style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white)
+![GitHub User's stars](https://img.shields.io/github/stars/SLord10?color=FFA116&style=for-the-badge&label=STARS&logo=star&logoColor=white)
 
 </div>
 
