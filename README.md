@@ -128,7 +128,7 @@ console.log("Ready to change the world? Let's code! 🚀");
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=SoufianeLamribah&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=SLord10&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 *"The best error message is the one that never shows up." - Thomas Fuchs*
 
