@@ -69,9 +69,9 @@ class SoufianeLamribah:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoufianeLamribah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SLord10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianeLamribah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SLord10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 </div>
 
@@ -81,7 +81,7 @@ class SoufianeLamribah:
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SoufianeLamribah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SLord10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -91,7 +91,7 @@ class SoufianeLamribah:
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SoufianeLamribah&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SLord10&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF)
 
 </div>
 
@@ -101,9 +101,9 @@ class SoufianeLamribah:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/soufiane-lamribah-4a5b06232)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soufianelamribah2001@gmail.com)
+
 
 </div>
 
