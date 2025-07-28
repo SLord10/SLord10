@@ -1,9 +1,9 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFFFF&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hey+%F0%9F%91%8B+I'm+Soufiane+Lamribah;Software+Engineer+%26+Problem+Solver;Building+Digital+Solutions+%F0%9F%9A%80)</div>
+# <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFF&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hey+%F0%9F%91%8B+I'm+Soufiane+Lamribah;Software+Engineer+%26+Problem+Solver;Building+Digital+Solutions+%F0%9F%9A%80)</div>
 
 <div align="center">
 
 <!-- Animated Starfield Background -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:161B22,50:21262D,75:30363D,100:484F58&height=200&section=header&text=SOUFIANE%20LAMRIBAH&fontSize=40&fontColor=FFFFF&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Architect&descAlignY=55&descSize=16&descColor=C9D1D9">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:161B22,50:21262D,75:30363D,100:484F58&height=200&section=header&text=SOUFIANE%20LAMRIBAH&fontSize=40&fontColor=00000&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Architect&descAlignY=55&descSize=16&descColor=C9D1D9">
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════════════╗
