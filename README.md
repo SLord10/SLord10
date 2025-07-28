@@ -1,4 +1,4 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hey+%F0%9F%91%8B+I'm+Soufiane+Lamribah;Software+Engineer+%26+Problem+Solver;Building+Digital+Solutions+%F0%9F%9A%80)</div>
+# <div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFFFF&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hey+%F0%9F%91%8B+I'm+Soufiane+Lamribah;Software+Engineer+%26+Problem+Solver;Building+Digital+Solutions+%F0%9F%9A%80)</div>
 
 <div align="center">
 
